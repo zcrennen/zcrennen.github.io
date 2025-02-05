@@ -16,7 +16,7 @@ Colorado School of Mines
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * Github University
+  * Colorado School of Mines
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
