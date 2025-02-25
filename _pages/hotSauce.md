@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Hot Sauce"
+permalink: /hotSauce/
+---
+
 
 **Green Chile**
 
