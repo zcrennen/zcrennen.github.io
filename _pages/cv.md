@@ -10,13 +10,13 @@ redirect_from:
 # Curriculum Vitae & Resume  
 
 ## 📄 Resume  
-**[📥 Download Resume](/assets/pdfs/resume.pdf) 📄**  
+**[📥 View Resume](/assets/pdfs/resume.pdf) 📄**  
 - **Length:** One page  
 - **Last updated:** August 30, 2024  
 
 ---
 
 ## 📜 CV  
-**[📥 Download CV](/assets/pdfs/CV.pdf) 📜**  
-- **Length:** One page  
+**[📥 View CV](/assets/pdfs/CV.pdf) 📜**  
+- **Length:** Two pages 
 - **Last updated:** August 30, 2024  
