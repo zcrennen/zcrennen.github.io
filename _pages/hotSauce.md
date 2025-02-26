@@ -4,16 +4,24 @@ title: "Hot Sauce"
 permalink: /hotSauce/
 ---
 
+## Green Chile
+<img src="/images/greenChile.png" alt="Green Chile" width="80%">
 
-**Green Chile**
-Ingredients: Hatch Green Chiles, Serranos, Vinegar, Garlic, Onion, Secrets
-[Green Chile](/images/greenChile.png)
+**Ingredients:**  
+Hatch Green Chiles, Serranos, Vinegar, Garlic, Onion, Secrets  
 
+---
 
-**Mango Habanero**
-Ingredients: Orange Bell Pepper, Mango, Habaneros, Vinegar, Garlic, Onion, Secrets
-[Mango Habanero](/images/mangoHabanero.png)
+## Mango Habanero
+<img src="/images/mangoHabanero.png" alt="Mango Habanero" width="80%">
 
-**Red Chile Truffle**
-Ingredients: Hatch Red Chiles, Fresno Chiles, Vinegar, Garlic, Onion, Truffle Oil, Secrets
-[Red Chile Truffle](/images/mangoHabanero.png)
+**Ingredients:**  
+Orange Bell Pepper, Mango, Habaneros, Vinegar, Garlic, Onion, Secrets  
+
+---
+
+## Red Chile Truffle
+<img src="/images/redChileTruffle.png" alt="Red Chile Truffle" width="80%">
+
+**Ingredients:**  
+Hatch Red Chiles, Fresno Chiles, Vinegar, Garlic, Onion, Truffle Oil, Secrets  
