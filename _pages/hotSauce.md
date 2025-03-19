@@ -4,11 +4,13 @@ title: "Hot Sauce"
 permalink: /hotSauce/
 ---
 
-# 🌶️ Hot Sauces  
+# 🌶️ Hot Sauce Collection  
 
 ## Green Chile  
-<img src="/images/greenChile.png" alt="Green Chile" width="20%">  
-<img src="/images/greenBottle.jpeg" alt="Green Chile" width="20%">  
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="/images/greenBottle.jpeg" alt="Green Chile Bottle" style="width: 30%;">  
+    <img src="/images/greenChile.png" alt="Green Chile" style="width: 20%;">  
+</div>  
 
 **Flavor:** A tangy and earthy blend with mild heat, featuring the smoky richness of Hatch green chiles and a garlicky bite.  
 
@@ -23,8 +25,10 @@ permalink: /hotSauce/
 ---
 
 ## Mango Habanero  
-<img src="/images/mangoHabanero.png" alt="Mango Habanero" width="20%">  
-<img src="/images/yellowBottle.jpeg" alt="Mango Habanero" width="20%">  
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="/images/yellowBottle.jpeg" alt="Mango Habanero Bottle" style="width: 30%;">  
+    <img src="/images/mangoHabanero.png" alt="Mango Habanero" style="width: 20%;">  
+</div>  
 
 **Flavor:** A sweet and fiery sauce with tropical mango sweetness upfront, followed by the bold, lingering heat of habaneros.  
 
@@ -40,8 +44,10 @@ permalink: /hotSauce/
 ---
 
 ## Red Chile Truffle  
-<img src="/images/redChileTruffle.png" alt="Red Chile Truffle" width="20%">  
-<img src="/images/redBottle.jpeg" alt="Red Chile Truffle" width="20%">  
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="/images/redBottle.jpeg" alt="Red Chile Truffle Bottle" style="width: 30%;">  
+    <img src="/images/redChileTruffle.png" alt="Red Chile Truffle" style="width: 20%;">  
+</div>  
 
 **Flavor:** A rich and savory sauce with deep red chile warmth, balanced by the luxurious, earthy aroma of truffle oil.  
 
